@@ -6,3 +6,5 @@
 - Adapté au readme
 - Mais aussi sur d'autres technos
 - Avec l'extension **.md**
+
+Une petite ligne supplémentaire qui fait toute la différence :-)
